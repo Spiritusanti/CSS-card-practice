@@ -1,6 +1,6 @@
 # CSS Animated Card practice:
 Built following tutorial from Kevin Powell @ https://www.youtube.com/watch?v=5DEq5cWNYt8.
-background photo on card from Unsplash user Dave Hoefler (https://unsplash.com/@davehoefler)
+Background photo on card from Unsplash user Dave Hoefler (https://unsplash.com/@davehoefler)
 
 # Goal of the Project:
 To build an animated card using only HTML and CSS
